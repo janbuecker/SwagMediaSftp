@@ -1,5 +1,0 @@
-{
-    "require": {
-        "league/flysystem-sftp": "^1.0"
-    }
-}
